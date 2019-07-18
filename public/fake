@@ -1,0 +1,2 @@
+self.window = self;
+importScripts('./chunk-vendors.js');
